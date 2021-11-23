@@ -7,3 +7,4 @@ Así que me dediqué a ver la documentación de la página y hacer una replica q
 /* Funciones */
 --Creación de archivos de texto con las notas calculadas anteriormente.
 --Correción de inputs, en caso de escribir palabras en vez de números en ciertas partes, el mismo programa lo detectará y hará un reintento.
+Cualquier tipo de error, por favor enviarlo a la sección "Issues"
