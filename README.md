@@ -5,5 +5,5 @@ Así que me dediqué a ver la documentación de la página y hacer una replica q
 
 
 /* Funciones */
---Creación de archivos de texto con las notas calculadas anteriormente (En proceso).
---Correción de inputs, en caso de escribir palabras en vez de números en ciertas partes, el mismo programa lo detectará y hará un reintento (Punto crítico).
+--Creación de archivos de texto con las notas calculadas anteriormente.
+--Correción de inputs, en caso de escribir palabras en vez de números en ciertas partes, el mismo programa lo detectará y hará un reintento.
