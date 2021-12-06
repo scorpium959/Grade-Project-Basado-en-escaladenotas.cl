@@ -1,0 +1,12 @@
+He aquí un binario del programa "Grade Project".
+Para ejecutar el programa, solo abra el archivo "Execute.bat" con doble click.
+Sí se ve en la necesidad o quiere modificar el código
+tiene el archivo "Source.lua" que es el código en sí.
+
+Para poder ver su código modificado en acción siga los siguientes pasos:
+-ya modificado el código de "Source.lua", haga una copia de seguridad del mismo.
+-luego borre el archivo "gradeprojectbin.out"
+-ahora, dentro de su línea de comandos (CMD o Powershell) ejecute el comando:
+  -luac54.exe -o gradeprojectbin.out Source.lua
+
+-ya hecho esto, cierre la terminal y ejecute el archivo "Execute.bat"
