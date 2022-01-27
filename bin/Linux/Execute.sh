@@ -1,0 +1,1 @@
+./lua gradeprojectbin.out
